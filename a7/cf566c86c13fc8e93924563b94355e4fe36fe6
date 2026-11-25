@@ -1,0 +1,22 @@
+FluentSnap.sln
+  h_4a474869a69419 1-27
+FluentSnap.vcxproj
+  h_4a474869a69419 1-122
+FluentSnap.vcxproj.filters
+  h_4a474869a69419 1-27
+app.manifest
+  h_4a474869a69419 1-18
+main.cpp
+  h_4a474869a69419 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "a7cf566c86c13fc8e93924563b94355e4fe36fe6",
+  "prompts": {},
+  "humans": {
+    "h_4a474869a69419": {
+      "author": "millfi <millfi@outlook.jp>"
+    }
+  }
+}
