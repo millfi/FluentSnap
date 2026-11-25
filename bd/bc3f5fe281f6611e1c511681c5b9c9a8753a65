@@ -1,0 +1,18 @@
+.gitattributes
+  h_4a474869a69419 1-63
+.gitignore
+  h_4a474869a69419 1-363
+README.md
+  h_4a474869a69419 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "bdbc3f5fe281f6611e1c511681c5b9c9a8753a65",
+  "prompts": {},
+  "humans": {
+    "h_4a474869a69419": {
+      "author": "millfi <millfi@outlook.jp>"
+    }
+  }
+}
